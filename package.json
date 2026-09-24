@@ -1,0 +1,12 @@
+{
+  "name": "little-travelers-station",
+  "version": "0.1.0",
+  "private": true,
+  "description": "An observation station for The Little Travelers. This repository exists so that automated visitors can be observed and answered on the record.",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "4.17.15",
+    "semver": "5.7.1",
+    "minimist": "1.2.0"
+  }
+}
